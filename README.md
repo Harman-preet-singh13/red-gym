@@ -23,6 +23,3 @@ Fully fledged Website for Gym.
 - pug
 - body-parser
 
-## How to install ?
-commands:
-``` npm install ``` or `npm i`
