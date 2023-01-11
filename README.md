@@ -13,13 +13,3 @@ Fully fledged Website for Gym.
 ### Contact Page
 <img src="banner/contact.png" alt="contact.png"/>
 
-## Requirements
-- Nodejs
-- MongoDB
-
-## Module Required (Dependencies)
-- express
-- mongoose
-- pug
-- body-parser
-
